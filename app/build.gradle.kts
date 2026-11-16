@@ -60,4 +60,6 @@ dependencies {
     implementation("androidx.activity:activity-ktx:1.9.3")
     implementation("androidx.webkit:webkit:1.12.1")
 implementation("com.android.billingclient:billing-ktx:7.1.1")
+    // Billing bringt ein altes Fragment mit; ActivityResult braucht mindestens 1.3.0
+    implementation("androidx.fragment:fragment-ktx:1.8.5")
 }
