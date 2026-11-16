@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saved_downloads">İndirilenler\'e kaydedildi: %1$s</string>
+    <string name="save_failed">Dosya kaydedilemedi.</string>
+    <string name="channel_name">Günlük hatırlatıcı</string>
+    <string name="no_purchase">Satın alım bulunamadı.</string>
+    <string name="store_unavailable">Google Play şu anda kullanılamıyor.</string>
+</resources>

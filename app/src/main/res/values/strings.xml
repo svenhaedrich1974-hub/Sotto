@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sotto</string>
+    <string name="saved_downloads">In Downloads gespeichert: %1$s</string>
+    <string name="save_failed">Datei konnte nicht gespeichert werden.</string>
+    <string name="channel_name">Tägliche Erinnerung</string>
+    <string name="no_purchase">Kein Kauf gefunden.</string>
+    <string name="store_unavailable">Google Play ist gerade nicht erreichbar.</string>
+</resources>
